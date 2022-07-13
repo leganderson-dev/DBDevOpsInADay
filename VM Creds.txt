@@ -1,0 +1,2 @@
+.\Redgate
+DatabaseDevOps!
